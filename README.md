@@ -225,8 +225,8 @@ p.note { display: none; }
 
 
 <br><br>
-<h2><span class="yellow">まいてゃさんアルバム第6回MBGリラックス音楽会</span></h2>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-MJ7VjKAChU?si=rZYZh2z27KMruCqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><br>
+<h2><span class="yellow">7月11日まいてゃさんMBGリラックス音楽会（前半）</span></h2>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pQKSJxaav2g?si=5V_bk2TCVa9r0R7h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><br>
 
 
 
