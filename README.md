@@ -142,7 +142,7 @@ p.note { display: none; }
     
     
     
-<h2><span class="yellow">16日は夜空に反射する宇都宮市街の光</span></h2>
+<h2><span class="yellow">16日は夜空に反射する宇都宮市街の光<br>目視では暗い空の一部がほんのり光ってました</span></h2>
 <a href="20250721_001.JPG" target="_blank"><img src="20250721_001.JPG" alt="サンプル画像" width="900" /></a>
     
 <h2><span class="yellow">17日は鹿沼の運転免許センターで国際免許の取得</span></h2>
