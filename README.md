@@ -118,11 +118,11 @@ p.note { display: none; }
 
 
 <!--QRコードの挿入例-->
-<p align="left"> <img src="QR_2025Jun21.png" alt="アクセス用QRコード" width="100">アクセス用QRコード</p>
+<p align="left"> <img src="QR_2025Jul21.png" alt="アクセス用QRコード" width="100">アクセス用QRコード</p>
 <p align="right"><marquee direction="left" scrollamount="20" width="30%">(^_^)/~alis</marquee></p>
 
 <!--流れ文字の挿入例-->
-<h1><span class="yellow"><marquee behavior="left">!!! 2025/06/16-20、夜空を照らす宇都宮の市街の光から、お散歩コースのひまわりまで!!!</marquee></span></h1>
+<h1><span class="yellow"><marquee behavior="left">!!! 2025/07/16-20、夜空を照らす宇都宮の市街の光から、お散歩コースのひまわりまで!!!</marquee></span></h1>
 
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
@@ -271,7 +271,7 @@ p.note { display: none; }
 
 
 <br><br><br>
-<h2><span class="yellow">以上、ショッピングモールのお花イベントから、お散歩コースのお花達まででした。<br>ここまでご覧いただきありがとうございました。</span></h2>
+<h2><span class="yellow">以上、夜空を照らす宇都宮の市街の光から、お散歩コースのひまわりまでした。<br>ここまでご覧いただきありがとうございました。</span></h2>
 
 <br><br><br><br><br>
 <h2><span class="yellow">
@@ -308,7 +308,7 @@ p.note { display: none; }
 
 <!-- フッタ -->
 <footer>
-<p>Copyright 2025/06/21 alis @Tochigi</p>
+<p>Copyright 2025/07/21 alis @Tochigi</p>
 </footer>
 
 <!--HPにさまざまなJavaScriptを呼び込むための書式-->
